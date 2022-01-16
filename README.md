@@ -1,2 +1,2 @@
 # ML
-All work and Projects related to Machine Learing
+Projects related to Machine Learing
